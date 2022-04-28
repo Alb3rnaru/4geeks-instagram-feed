@@ -1,0 +1,35 @@
+.toptop{
+    background: white;
+    height: 70px;
+    margin: 0; 
+    padding: 1rem;
+}
+
+.post{
+    background: white;
+	width: 500px;
+	height: 500px;
+	margin: 3rem auto 3rem auto;
+}
+.post-top {
+    display: flex;
+    height: 55px;
+}
+.post-mid {
+    width: 100%;
+    height: 378px;
+}
+.post-bottom {
+    padding: 1% 3% 1% 3%; 
+}
+
+.imagePost {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin: auto; 
+    padding-top: 2.5%;
+}
